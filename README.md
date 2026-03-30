@@ -79,18 +79,6 @@ I specialize in **threat detection, log analysis, and SOC operations**, with han
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejinderS1130&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejinderS1130&theme=tokyonight" />
-</p>
-
----
-
 ##  Current Focus
 
 *  Threat hunting (multi-stage attack detection)
