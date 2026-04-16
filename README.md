@@ -8,13 +8,11 @@
 
 ## 🚨 Summary
 
-SOC-focused cybersecurity practitioner with hands-on experience in **detection engineering, threat hunting, and incident response** across both **on-prem and cloud environments**.
+SOC-focused cybersecurity analyst with hands-on experience detecting and investigating real-world attacks using SIEM and endpoint telemetry.
 
-Experienced in:
+Skilled in identifying authentication-based attacks, correlating multi-source logs, and performing incident analysis across Linux, Windows, and network environments.
 
-- Detecting, triaging, and investigating real-world attack scenarios  
-- Correlating multi-source logs (endpoint, network, cloud)  
-- Building and tuning SOC detection and monitoring workflows  
+Focused on detection engineering, threat hunting, and incident investigation, with work aligned to MITRE ATT&CK and real-world SOC workflows.
 
 ---
 
@@ -26,15 +24,13 @@ Experienced in:
 
 ---
 
-### 🛠️ Technologies & Platforms
+## 🛠️ Tools & Technologies
 
-- **SIEM:** Splunk, Microsoft Sentinel  
-- **EDR/XDR:** Microsoft Defender XDR  
-- **Cloud Security:** AWS (WAF, GuardDuty, CloudWatch)  
-
----
-
-Strong experience in log analysis, detection engineering, and incident investigation, with detection logic aligned to MITRE ATT&CK and real-world adversary techniques. **(TTP-based detection design)**.
+**SIEM / EDR:** Splunk, Microsoft Sentinel, Defender XDR  
+**Network & Security:** Wireshark, pfSense, Nessus  
+**Systems:** Linux, Windows, Active Directory  
+**Offensive & Testing:** Nmap, Hydra  
+**Cloud:** AWS (WAF, GuardDuty, CloudWatch) 
 
 ---
 
@@ -159,16 +155,19 @@ Focused on **threat detection, security analytics, and incident response in SOC 
 
 ## 🚀 Featured SOC Projects
 
-### 🛡️ Splunk Authentication Attack Detection
+Each project demonstrates detection logic, investigation workflow, and response actions aligned with real SOC operations.
+
+### 🔴 SOC Multi-Stage Authentication Attack Detection (Splunk)
 - SSH, RDP, VPN brute force detection  
 - Multi-source log correlation  
-- SOC dashboards & alerts  
+- SOC dashboards & alerts
+- Identified successful authentication after repeated failures, indicating potential credential compromise
 
 🔗 https://github.com/TejinderS1130/Enterprise-Authentication-Attack-Detection-Splunk  
 
 ---
 
-### 🛡️ Defender XDR Credential Access Investigation
+### 🛡️ SOC Incident Response – Credential Access (Defender XDR)
 - Mimikatz detection  
 - Endpoint investigation  
 - Threat hunting (KQL)  
@@ -193,25 +192,6 @@ Focused on **threat detection, security analytics, and incident response in SOC 
 - Risk scoring system  
 
 🔗 https://github.com/TejinderS1130/python-soc-multi-detection-log-analyzer  
-
----
-
-## 🎯 SOC Capabilities
-
-✔ Detection Engineering (SPL, KQL, Python)  
-✔ Threat Hunting & Log Correlation  
-✔ SIEM Monitoring & Alert Analysis  
-✔ Incident Investigation & Triage  
-
-✔ Credential Attack Detection (T1110)  
-✔ Cloud Attack Detection (SQL Injection)  
-✔ Reconnaissance Detection  
-
-✔ Endpoint Visibility (Defender XDR)  
-✔ Network Monitoring (Firewall, VPN logs)  
-✔ Cloud Threat Detection (AWS)  
-
-✔ Alert Tuning & False Positive Reduction  
 
 ---
 
