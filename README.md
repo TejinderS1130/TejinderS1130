@@ -1,60 +1,60 @@
-# 🛡️ Tejinder Singh | SOC Analyst
+# Tejinder Singh | SOC Analyst | IT Operations
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=700&lines=SOC+Analyst;Threat+Detection+%7C+SIEM+%7C+Incident+Response;Splunk+%7C+Sentinel+%7C+MITRE+ATT%26CK;AWS+%7C+Cloud+Security+%7C+Threat+Hunting;Building+Real-World+SOC+Environments" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+IT+Operations;Threat+Detection+%7C+Incident+Response;System+Troubleshooting+%7C+Network+Support;Splunk+%7C+Defender+%7C+AWS;Building+Enterprise+IT+%26+SOC+Environments" />
 </p>
 
 ---
 
-## 🚨 Summary
+## Summary
 
-SOC-focused cybersecurity analyst with hands-on experience detecting and investigating real-world attacks using SIEM and endpoint telemetry.
+SOC-focused cybersecurity analyst with hands-on experience in **threat detection, incident investigation, and IT system troubleshooting** across enterprise environments.
 
-Skilled in identifying authentication-based attacks, correlating multi-source logs, and performing incident analysis across Linux, Windows, and network environments.
+Skilled in analyzing security alerts, correlating multi-source logs, and diagnosing system and network issues across Linux, Windows, and cloud environments.
 
-Focused on detection engineering, threat hunting, and incident investigation, with work aligned to MITRE ATT&CK and real-world SOC workflows.
-
----
-
-### 🔥 Key Focus Areas
-
-- Authentication-based attacks (Brute Force, Password Spraying, Account Compromise)  
-- Credential access & endpoint threat detection (Defender XDR)  
-- Cloud attack detection (SQL Injection, reconnaissance activity)  
+Brings a strong foundation in **IT operations, endpoint support, and infrastructure troubleshooting**, combined with SOC capabilities aligned to MITRE ATT&CK and real-world incident response workflows.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Key Focus Areas
 
-**SIEM / EDR:** Splunk, Microsoft Sentinel, Defender XDR  
-**Network & Security:** Wireshark, pfSense, Nessus  
-**Systems:** Linux, Windows, Active Directory  
-**Offensive & Testing:** Nmap, Hydra  
-**Cloud:** AWS (WAF, GuardDuty, CloudWatch) 
-
----
-
-## 👨‍💻 About Me
-
-🎓 Cybersecurity & Threat Management @ Seneca  
-📍 Toronto, Canada 🇨🇦  
-
-I design and operate **real-world SOC lab environments** to simulate attacks and build detection logic.
-
-### 🔍 What I Focus On
-
-- Detection engineering  
-- Threat hunting  
-- Incident investigation  
-- Reducing false positives  
+- Authentication attacks (Brute Force, Password Spraying, Account Compromise)  
+- Endpoint and system troubleshooting (Windows, Linux)  
+- Network diagnostics and connectivity issue resolution  
+- Cloud monitoring and attack detection (AWS)  
 
 ---
 
-## 🧠 Core Skills & Tools
+## Tools & Technologies
+
+**SIEM / EDR**: Splunk, Microsoft Sentinel, Microsoft Defender XDR  
+**Systems & IT Operations**: Windows, Linux, Active Directory, DNS  
+**Networking**: TCP/IP, VPN, Firewall (pfSense), Wireshark  
+**Cloud**: AWS (WAF, GuardDuty, CloudWatch)  
+**Automation**: Python, Bash  
 
 ---
 
-### 🔍 SIEM & Detection Engineering
+## About
+
+Cybersecurity & Threat Management @ Seneca  
+Toronto, Canada  
+
+I build and operate **enterprise-style lab environments** that combine:
+
+- IT infrastructure deployment  
+- System and network troubleshooting  
+- Security monitoring and detection  
+
+This allows me to simulate real-world scenarios across both **IT support and SOC operations**.
+
+---
+
+## Core Skills & Tools
+
+---
+
+### SIEM & Detection Engineering
 
 <p align="center">
   <img src="https://img.shields.io/badge/SIEM-Splunk-blue?style=for-the-badge&logo=splunk"/>
@@ -63,16 +63,27 @@ I design and operate **real-world SOC lab environments** to simulate attacks and
   <img src="https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge"/>
 </p>
 
-- SPL • KQL  
-- Detection Engineering  
-- Threat Hunting  
-- Alert Tuning  
-- Log Correlation  
-- MITRE Mapping  
+- SPL and KQL  
+- Detection engineering  
+- Threat hunting  
+- Alert triage and investigation  
+- Log correlation  
+- MITRE ATT&CK mapping  
 
 ---
 
-### 🌐 Network Security Monitoring
+### IT Operations & System Support
+
+- Windows and Linux administration  
+- Endpoint troubleshooting and issue resolution  
+- Active Directory user and system management  
+- DNS configuration and troubleshooting  
+- RDP and SSH access management  
+- System performance and log analysis  
+
+---
+
+### Network Troubleshooting & Monitoring
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firewall-pfSense-blue?style=for-the-badge"/>
@@ -80,14 +91,15 @@ I design and operate **real-world SOC lab environments** to simulate attacks and
   <img src="https://img.shields.io/badge/IDS%2FIPS-Suricata-orange?style=for-the-badge"/>
 </p>
 
-- Firewall log analysis  
-- VPN monitoring  
-- Traffic analysis  
+- Network connectivity troubleshooting  
+- TCP/IP, routing, and DNS issue resolution  
+- Firewall and VPN monitoring  
+- Traffic analysis using Wireshark  
 - IDS/IPS fundamentals  
 
 ---
 
-### ☁️ Cloud Security (AWS)
+### Cloud Security & Monitoring (AWS)
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws"/>
@@ -96,25 +108,14 @@ I design and operate **real-world SOC lab environments** to simulate attacks and
   <img src="https://img.shields.io/badge/AWS-CloudWatch-blue?style=for-the-badge"/>
 </p>
 
-- SQL Injection detection  
-- WAF protection  
-- GuardDuty threat detection  
-- CloudWatch monitoring  
+- Cloud infrastructure monitoring  
+- Threat detection using GuardDuty  
+- WAF-based attack prevention  
+- CloudWatch logging and alerting  
 
 ---
 
-### 🖥️ System & Infrastructure
-
-- Linux  
-- Windows Server  
-- Active Directory  
-- DNS  
-- RDP / SSH  
-- VMware  
-
----
-
-### 🔎 Vulnerability Assessment & Offensive Testing
+### Vulnerability Assessment & Testing
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vulnerability-Nessus-green?style=for-the-badge"/>
@@ -125,96 +126,85 @@ I design and operate **real-world SOC lab environments** to simulate attacks and
 
 - Vulnerability scanning (Nessus, OpenVAS)  
 - Network reconnaissance (Nmap)  
-- Web security testing (OWASP Top 10)  
-- Attack simulation for detection validation  
+- Web application testing (OWASP Top 10)  
+- Attack simulation for validation  
 
 ---
 
-### ⚙️ Automation
+### Automation
 
-- Python  
-- Bash  
-- Log parsing  
-- Detection automation  
+- Python scripting for detection and analysis  
+- Bash scripting for system monitoring  
+- Log parsing and alert automation  
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CompTIA-CSAP-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ISC2-CC-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft-SC--200-purple?style=for-the-badge"/>
 </p>
 
-Focused on **threat detection, security analytics, and incident response in SOC environments**.
+Focused on threat detection, incident response, and security operations.
 
 ---
 
-## 🚀 Featured SOC Projects
+## Featured Projects
 
-Each project demonstrates detection logic, investigation workflow, and response actions aligned with real SOC operations.
+### Enterprise IT Infrastructure Lab
+- System deployment and configuration  
+- Network troubleshooting and diagnostics  
+- Endpoint monitoring and issue resolution  
 
-### 🔴 SOC Multi-Stage Authentication Attack Detection (Splunk)
-- SSH, RDP, VPN brute force detection  
-- Multi-source log correlation  
-- SOC dashboards & alerts
-- Identified successful authentication after repeated failures, indicating potential credential compromise
-
-🔗 https://github.com/TejinderS1130/Enterprise-Authentication-Attack-Detection-Splunk  
+https://github.com/TejinderS1130/enterprise-it-infrastructure-lab  
 
 ---
 
-### 🛡️ SOC Incident Response – Credential Access (Defender XDR)
-- Mimikatz detection  
-- Endpoint investigation  
-- Threat hunting (KQL)  
-
-🔗 https://github.com/TejinderS1130/Credential-Access-Attack-Detection-and-Response-Defender-XDR  
-
----
-
-### ☁️ AWS Cloud Security Lab
+### Cloud IT & Security Operations Lab
 - SQL Injection attack simulation  
-- WAF blocking (403 response)  
-- GuardDuty detection  
+- WAF-based blocking and validation  
+- GuardDuty threat detection  
 
-🔗 https://github.com/TejinderS1130/enterprise-cloud-security-lab  
-
----
-
-### 🤖 Python SOC Multi-Attack Detection
-- Brute force detection  
-- Password spraying detection  
-- Account compromise correlation  
-- Risk scoring system  
-
-🔗 https://github.com/TejinderS1130/python-soc-multi-detection-log-analyzer  
+https://github.com/TejinderS1130/enterprise-cloud-it-operations-lab  
 
 ---
 
-## 🧠 SOC Mindset
+### Authentication Attack Detection (Splunk)
+- Detection of SSH, RDP, and VPN brute force attacks  
+- Multi-source log correlation  
+- Alerting and investigation workflows  
 
-- How is the attack performed?  
-- What logs capture it?  
-- How can it be detected reliably?  
-
-👉 This drives my detection engineering approach  
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejinder-singh-4452923a6">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+https://github.com/TejinderS1130/Enterprise-Authentication-Attack-Detection-Splunk  
 
 ---
 
-## 🎯 Mission
+### Credential Access Detection and Response (Defender XDR)
+- Mimikatz detection and investigation  
+- Endpoint telemetry analysis  
+- Threat hunting using KQL  
 
-To build detection systems that identify, analyze, and respond to real-world cyber threats across enterprise and cloud environments.
+https://github.com/TejinderS1130/Credential-Access-Attack-Detection-and-Response-Defender-XDR  
+
+---
+
+## Approach
+
+- Identify how issues or attacks occur  
+- Analyze logs and system behavior  
+- Correlate events across systems  
+- Resolve issues and improve detection  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/tejinder-singh-4452923a6
+
+---
+
+## Objective
+
+To contribute to IT operations and security teams by supporting systems, resolving issues, and detecting threats across enterprise environments.
